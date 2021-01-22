@@ -1,4 +1,4 @@
-# Simple PHP Cache #
+# Simple Cache #
 
 ## About ##
 
